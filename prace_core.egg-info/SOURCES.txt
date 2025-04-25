@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+prace_core/__init__.py
+prace_core/cli.py
+prace_core.egg-info/PKG-INFO
+prace_core.egg-info/SOURCES.txt
+prace_core.egg-info/dependency_links.txt
+prace_core.egg-info/entry_points.txt
+prace_core.egg-info/requires.txt
+prace_core.egg-info/top_level.txt

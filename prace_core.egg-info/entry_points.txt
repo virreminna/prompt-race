@@ -1,0 +1,2 @@
+[console_scripts]
+prace = prace_core.cli:prace
